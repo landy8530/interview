@@ -1,0 +1,8 @@
+1.你接触的client MVC框架有哪些？（vue.js/backbone.js/extjs/angularjs等）
+2.写一个线程安全的单例模式？（为什么要这样写）：内部类方式、枚举方式、double-check
+3.zk的底层实现？
+4.dubbo的原理
+5.jvm的内存模型
+6.聊聊大数据生态（hadoop生态系统）
+7.学习态度方面（技术博客，github，学习英文等）
+8.restful API有什么特点？
